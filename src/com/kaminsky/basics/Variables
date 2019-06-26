@@ -1,0 +1,11 @@
+type identifier [ = value][,identifier[=value]...];
+
+int a,b,c;
+int d=3, c, a=5;
+char = 'D'
+
+DYNAMIC INITIALIZATION
+
+double a = 3.0, b = 4.0;
+double c = Math.sqrt(a * a * b * b);
+
